@@ -2,7 +2,7 @@
 
 # Графовые нейронные сети на Python
 
-Этот репозиторий содержит программный код к книге "Графовые нейронные сети на Python" [Артема Груздева](https://t.me/Gewissta).
+Этот репозиторий содержит программный код к книге "Графовые нейронные сети на Python" [Максима Лабонна](https://github.com/mlabonne) и [Артема Груздева](https://t.me/Gewissta).
 
 [Данные к главе 16](https://drive.google.com/file/d/1VaFMANRD1mskzs3hUuIIHXJh7tE7v12W/view?usp=sharing)
 
